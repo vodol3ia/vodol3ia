@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vodol3ia
 - 👀 I’m interested in the digitalization of production processes by a web app. 
-- 🌱 I’m currently learning LEAN, Process optimization, PHP, JQuery...
+- 🌱 I’m currently learning LEAN, Process optimization, HTML and CSS3, PHP, jQuery, C#, and .Net
 - 📫 If you have interest to some project you can send me an email at vodoleia1987@abv.bg
 
 <!---
